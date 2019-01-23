@@ -4,8 +4,7 @@
 	"description": "Authentication Sprint Demo",
 	"main": "index.js",
 	"scripts": {
-		"server": "nodemon",
-		"start": "nodemon"
+		"server": "nodemon"
 	},
 	"keywords": [],
 	"author": "Lambda School",
